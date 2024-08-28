@@ -11,5 +11,5 @@ The app works better with longer videos. more video time = more data to interpre
 
 ## Future Plans:
 
-I intend to turn this into a web app, with more robust features and AI voice narration
+I intend to turn this into a web app with an interactable GUI and AI voice narration
 
