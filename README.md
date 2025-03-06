@@ -7,7 +7,7 @@ A lightweight script that uses AI to summarize the latest youtube video from a c
 3. Run the script! The video summary will be printed out to the console
 
 ## Note:
-The app works better with longer videos. more video time = more data to interpret = better summary!
+The app works better with longer videos. more video time => more data to interpret => better summary!
 
 ## Future Plans:
 
